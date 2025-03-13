@@ -8,14 +8,15 @@ Task Assignment for imageAI to predict the DON concentration
  #### Instructions
  1. Clone repository
     >> git clone https://github.com/Simran-bagga87/Task-for-ML-Intern.git
+ 2. change directory
     >> cd Task-for-ML-Intern
-  2. create virtual environment
+ 3. create virtual environment
     >> python -m venv venv
- 3. change directory move to Scripts
+ 4. change directory move to Scripts
     >> venv/Scripts
- 4. acticate the virtual environment using command
+ 5. acticate the virtual environment using command
      >> Activate.bat
- 5. install dependencies
+ 6. install dependencies
     >> pip install -r requirement.txt
 
 ### Run streamlit Application
