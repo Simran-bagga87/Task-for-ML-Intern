@@ -8,8 +8,8 @@ Task Assignment for imageAI to predict the DON concentration
  #### Instructions
  1. Clone repository
     >> git clone https://github.com/Simran-bagga87/Task-for-ML-Intern.git
-    >>cd Task-for-ML-Intern
- 2. create virtual environment
+    >> cd Task-for-ML-Intern
+  2. create virtual environment
     >> python -m venv venv
  3. change directory move to Scripts
     >> venv/Scripts
